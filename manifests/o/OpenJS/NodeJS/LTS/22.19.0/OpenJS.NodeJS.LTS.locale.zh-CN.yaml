@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 Dumplings Mod
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.10.0.schema.json
 
 PackageIdentifier: OpenJS.NodeJS.LTS
@@ -30,11 +30,11 @@ Tags:
 - 跨平台
 - 运行时
 Documentations:
+- DocumentLabel: 关于
+  DocumentUrl: https://nodejs.org/zh-cn/about/
 - DocumentLabel: 学习
   DocumentUrl: https://nodejs.org/zh-cn/learn/
 - DocumentLabel: 文档
   DocumentUrl: https://nodejs.org/docs/v22.19.0/api/
-- DocumentLabel: 关于
-  DocumentUrl: https://nodejs.org/zh-cn/about/
 ManifestType: locale
 ManifestVersion: 1.10.0

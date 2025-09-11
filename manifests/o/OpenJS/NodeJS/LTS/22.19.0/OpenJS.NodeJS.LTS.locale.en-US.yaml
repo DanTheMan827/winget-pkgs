@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 Dumplings Mod
+# Created with komac v2.13.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 
 PackageIdentifier: OpenJS.NodeJS.LTS
@@ -33,11 +33,11 @@ Tags:
 - runtime
 - v8
 Documentations:
-- DocumentLabel: Learn
-  DocumentUrl: https://nodejs.org/learn/
-- DocumentLabel: Documentation
-  DocumentUrl: https://nodejs.org/docs/v22.19.0/api/
 - DocumentLabel: About
   DocumentUrl: https://nodejs.org/about/
+- DocumentLabel: Documentation
+  DocumentUrl: https://nodejs.org/docs/v22.19.0/api/
+- DocumentLabel: Learn
+  DocumentUrl: https://nodejs.org/learn/
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0
